@@ -41,7 +41,7 @@ Le code de génération du QR code de PKHeX est extrait de [QRCoder](https://git
 
 La collection de sprites shiny de PKHeX est tirée de [pokesprite](https://github.com/msikma/pokesprite), qui est [sous licence MIT](https://github.com/msikma/pokesprite/blob/master/LICENSE).
 
-PKHeX's Pokémon Legends: Arceus sprite collection is taken from the [National Pokédex - Icon Dex](https://www.deviantart.com/pikafan2000/art/National-Pokedex-Version-Delta-Icon-Dex-824897934) project and its abundance of collaborators and contributors.
+La collection de sprites PKHeX de Pokémon Legends: Arceus est basé sur le projet [National Pokédex - Icon Dex](https://www.deviantart.com/pikafan2000/art/National-Pokedex-Version-Delta-Icon-Dex-824897934) et ses nombreux collaborateurs et contributeurs.
 
 ## IDE
 
